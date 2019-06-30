@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Cash Flow</string>
+    <string name="action_settings">Settings</string>
+    <string name="instruction">Put your finger on the sensor</string>
+</resources>
